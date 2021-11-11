@@ -1,0 +1,1 @@
+ProjectOmega é uma tela de login, simples, feita em ReactNative
