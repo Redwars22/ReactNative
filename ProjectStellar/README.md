@@ -3,4 +3,4 @@
 Conheça os dados dos 8 planetas do sistema solar! O aplicativo informa a distância do planeta à Terra e ao Sol, seu período orbital, a quantidade de luas que possui, seu diâmetro e sua massa. 
 O arquivo APK, bem como o código fonte do aplicativo, estão disponíveis aqui no repositório.
 
-*Feito com ReactNative*
+*Feito com ReactNative. OBS: Pode ser necessário instalar alguns módulos e dependências que podem não estar instalados em sua máquina. Para isso, basta usar o npm.*
