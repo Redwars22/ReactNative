@@ -1,11 +1,12 @@
 import * as React from 'react';
-import { Text, View, StyleSheet, ScrollView , StatusBar} from 'react-native';
+import { Text, View, StyleSheet, ScrollView , StatusBar, Button, Alert} from 'react-native';
 import Constants from 'expo-constants';
 
 import AssetExample from './components/AssetExample';
 import Header from './components/Header';
 import Section from './components/Section';
 import ListItem from './components/ListItem';
+import LangIconsComponent  from './components/LangIconsComponent';
 
 export default function App() {
   return (
@@ -26,6 +27,7 @@ export default function App() {
 
         <View>
           <Section title="Tecnologias" />
+          <LangIconsComponent/>
         </View>
 
         <View>
